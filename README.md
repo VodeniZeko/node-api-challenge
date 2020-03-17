@@ -1,4 +1,4 @@
-# Sprint Challenge: Express and Node.js - Projects & Actions
+# Sprint Challenge: Express and Node.js - Projects & Actions.
 
 ## Description
 
@@ -39,14 +39,15 @@ Commit your code regularly and use descriptive messages. This helps both you (in
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead.
 
 - [ ] Mention two parts of Express that you learned about this week.
-
+      routing and middleware
 - [ ] Describe Middleware?
-
+      A middleware is a function that will the receive the Request and Response objects and so something with that info.
 - [ ] Describe a Resource?
-
+      data that api retrieves
 - [ ] What can the API return to help clients know if a request was successful?
-
+      it can return resources that are deleted, updated or modified.
 - [ ] How can we partition our application into sub-applications?
+      using routers.
 
 ## Minimum Viable Product
 
